@@ -1,0 +1,9 @@
+.three-dots {
+  font-size: 30px;
+  display: inline-block;
+  padding-bottom: 16px;
+}
+
+.alignLeft {
+  text-align: 'left !important'
+}
